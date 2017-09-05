@@ -1,0 +1,14 @@
+{
+    "name": "fpdf/fpdf",
+    "description": "A copy of FPDF project, creating PDF with php.",
+    "authors": [
+        {
+            "name": "Om Prakash Swami",
+            "email": "opswami1989@gmail.com"
+        }
+    ],
+    "autoload": {
+        "classmap": ["fpdf.php"],
+		"files": ["fpdf.php"]
+    }
+}
